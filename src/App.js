@@ -13,7 +13,6 @@ function App() {
                 <Route exact path="/">
                     <Photos />
                 </Route>
-                
                 <Route path="/cart">
                     <Cart />
                 </Route>
